@@ -8,4 +8,5 @@ if ($Variable2 > $Variable1) {
 else{
     echo "Es menor";
 }
+/*PRUEBA*/ 
 ?>
