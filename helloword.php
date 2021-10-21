@@ -6,6 +6,6 @@ if ($Variable2 > $Variable1) {
     echo "Es mayor";
 }
 else{
-    echo "Es MMMMMM";
+    echo "Es menor";
 }
 ?>
